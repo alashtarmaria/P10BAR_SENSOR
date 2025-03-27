@@ -1,3 +1,9 @@
+/*
+🧮 Birim Dönüşümleri:
+1 psi ≈ 0.06895 bar
+150 psi ≈ 10.34 bar
+
+*/
 char buffer[64];
 
 void UART3_Init_Config(unsigned long baudrate) {
